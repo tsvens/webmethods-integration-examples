@@ -76,6 +76,7 @@
   <value name="cache_ttl">15</value>
   <value name="prefetch_level">1</value>
   <value name="template">bankStatementFileToXml_ftpOutput.xml</value>
+  <value name="template_type">xml</value>
   <value name="audit_level">off</value>
   <value name="check_internal_acls">no</value>
   <value name="icontext_policy">$null</value>

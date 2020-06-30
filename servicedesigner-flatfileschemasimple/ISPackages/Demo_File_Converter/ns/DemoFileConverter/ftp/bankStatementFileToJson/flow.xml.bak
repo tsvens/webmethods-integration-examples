@@ -6,7 +6,7 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="pub.io:streamToString" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
+  <COMMENT> </COMMENT>
 
   <!-- nodes -->
 
@@ -376,4 +376,8 @@
 </MAPDELETE>
 </MAP>
 </INVOKE>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT></COMMENT>
+</MAP>
 </FLOW>
